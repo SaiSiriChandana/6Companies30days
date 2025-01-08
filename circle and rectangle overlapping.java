@@ -9,6 +9,5 @@ class Solution {
        // Find the closest point on the rectangle to the circle's center
       // Calculate the squared distance from the circle's center to the closest point
        // Check if the distance squared is less than or equal to the squared radius
-
     }
 }
